@@ -1,0 +1,6 @@
+import java.util.*;...
+
+   //Write your code here
+   String s = String.valueOf(n);
+
+...
